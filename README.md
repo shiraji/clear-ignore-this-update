@@ -2,6 +2,8 @@
 
 Too scaled to press "Ignore This Update" button?
 
+![screenshot](website/images/ss.png)
+
 This is the plugin that undo pressing "Ignore This Update"
 
 # How to use?
