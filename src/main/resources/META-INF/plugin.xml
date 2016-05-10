@@ -4,9 +4,16 @@
   <vendor email="isogai.shiraji@gmail.com" url="https://github.com/shiraji">Shiraji</vendor>
 
   <description><![CDATA[
+  Too scaled to press "Ignore This Update" button?
+
+  This is the plugin that undo pressing "Ignore This Update"
     ]]></description>
 
   <change-notes><![CDATA[
+        <p>1.0.0</p>
+        <ul>
+          <li>Initial release</li>
+        </ul>
     ]]>
   </change-notes>
 
