@@ -16,6 +16,6 @@ class ClearIgnoreThisUpdate : AnAction() {
     override fun update(e: AnActionEvent?) {
         e ?: return
         super.update(e)
-        e.presentation.isEnabledAndVisible = UpdateSettings.getInstance().ignoredBuildNumbers.size > 0
+        e.presentation.isEnabled = UpdateSettings.getInstance().ignoredBuildNumbers.size > 0
     }
 }
